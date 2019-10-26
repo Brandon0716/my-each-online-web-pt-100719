@@ -4,5 +4,5 @@ def my_each(method)
   while b < method.length 
   b = b + 1 
   
-  
+end  
 end
